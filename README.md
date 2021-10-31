@@ -29,4 +29,5 @@ IDE, you need to follow these steps
 
 
 ## Screenshots
-
+![](images/chess1.png)
+![](images/chess2.png)
